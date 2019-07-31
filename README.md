@@ -1,4 +1,4 @@
-# productdiscountspecialbyweekday
+# Product Discount and Product Special by Weekday
 Create a discount or special product by weekday on the Opencart
 
 # SQL for create custom field
